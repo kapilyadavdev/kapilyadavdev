@@ -14,17 +14,28 @@
 
 ## 👋 About me
 
-I’m a backend-focused technology leader with **9+ years of experience** building scalable, resilient, and high-performance software systems.
+<table>
+  <tr>
+    <td valign="middle">
+      I’m a backend-focused technology leader with <strong>9+ years of experience</strong> building scalable, resilient, and high-performance software systems.<br /><br />
+      My work combines hands-on engineering with technical leadership—turning complex requirements into dependable services, improving system performance, mentoring engineers, and establishing practices that support long-term growth.<br /><br />
+      <strong>Currently expanding my Python toolkit</strong> alongside deep experience in Go and backend engineering.
+    </td>
+    <td width="190" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/animation/looking-around.gif" width="150" alt="Animated Go gopher looking around" />
+      <br />
+      <sub>A little gopher curiosity, from <a href="https://github.com/egonelbre/gophers">egonelbre/gophers</a></sub>
+    </td>
+  </tr>
+</table>
 
-My work combines hands-on engineering with technical leadership—turning complex requirements into dependable services, improving system performance, mentoring engineers, and establishing practices that support long-term growth.
+### What I enjoy building
 
-I’m particularly interested in:
-
-- Building fault-tolerant distributed systems
-- Designing scalable microservice architectures
-- Improving API throughput and system performance
-- Using Go concurrency and Python to solve practical engineering problems
-- Delivering reliable applications on cloud-native infrastructure
+- Fault-tolerant distributed systems
+- Scalable microservice architectures
+- High-throughput APIs and data processing
+- Go concurrency and Python solutions for practical engineering problems
+- Reliable cloud-native applications
 
 ## 🎯 Engineering impact
 
