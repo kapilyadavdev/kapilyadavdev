@@ -1,67 +1,126 @@
 <div align="center">
 
-# Kapil Yadav
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Kapil%20Yadav&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Technology%20Lead%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20Golang&descSize=18&descAlignY=58" alt="Kapil Yadav — Technology Lead and Backend Engineer" />
 
-### Technology Lead · Backend Engineer · Go Developer
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-kapil-yadav)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapilyadavdev)
+[![Website](https://img.shields.io/badge/GopherWorkspace-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](http://gopherworkspace.com/)
 
-Building scalable backend systems, distributed services, and cloud-native applications.
-
-[LinkedIn](https://www.linkedin.com/in/dev-kapil-yadav) · [GitHub](https://github.com/kapilyadavdev) · [GopherWorkspace](http://gopherworkspace.com/)
+**Backend engineering, distributed systems, and cloud-native application development**
 
 </div>
 
----
+## 👋 About me
 
-## About
+I am a backend-focused technology leader with **9+ years of experience** building scalable, resilient, and high-performance software systems.
 
-I’m a backend engineer with **9+ years of experience** designing and building scalable microservices, distributed systems, and cloud-native applications. My work focuses on **Go**, system design, performance optimization, and reliable services that grow with their workloads.
+My work combines hands-on engineering with technical leadership—turning complex requirements into dependable services, improving system performance, mentoring engineers, and establishing practices that support long-term growth.
 
-This profile is my professional dashboard: a snapshot of the technologies I work with, selected engineering highlights, and ways to connect.
+I am particularly interested in:
 
-## At a glance
+- Building fault-tolerant distributed systems
+- Designing clean, scalable microservice architectures
+- Improving API throughput and system performance
+- Applying Go concurrency to solve real-world engineering problems
+- Delivering reliable applications on cloud-native infrastructure
 
-| Focus | Areas |
-| --- | --- |
-| **Backend engineering** | Go, REST APIs, gRPC, GraphQL, microservices |
-| **Data and messaging** | PostgreSQL, Redis, Kafka |
-| **Cloud and infrastructure** | AWS, Docker, Kubernetes |
-| **Interests** | Distributed systems, system design, performance, backend development |
+## 💼 What I bring
 
-## Selected highlights
+| 9+ years | Backend | Cloud-native | Distributed |
+| :---: | :---: | :---: | :---: |
+| Engineering experience | Service development | AWS & containers | Architecture at scale |
 
-- ⚡ Improved API processing time from **about 5 minutes to 50–60 seconds** using Go concurrency.
-- 📨 Designed Kafka-based notification systems to support **20–30× message growth**.
-- 📦 Built scalable solutions for processing large payloads with **Amazon S3**.
-- 📡 Implemented real-time backend processing updates with **WebSockets**.
+## 🎯 Engineering impact
 
-## Technology toolkit
+<table>
+  <tr>
+    <td width="50%">
+      <h3>⚡ Performance optimization</h3>
+      Reduced API processing time from approximately <strong>5 minutes to 50–60 seconds</strong> through concurrent Go-based processing.
+    </td>
+    <td width="50%">
+      <h3>📨 Event-driven messaging</h3>
+      Designed Kafka-based notification systems capable of supporting <strong>20–30× message growth</strong>.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📦 Large-payload processing</h3>
+      Built scalable solutions for large-file and large-payload workflows using <strong>Amazon S3</strong>.
+    </td>
+    <td width="50%">
+      <h3>📡 Real-time systems</h3>
+      Implemented WebSocket-based processing updates for immediate backend status visibility.
+    </td>
+  </tr>
+</table>
 
-**Languages & APIs**  
-`Go` · `REST` · `gRPC` · `GraphQL`
+## 🛠️ Technology expertise
 
-**Architecture & messaging**  
-`Microservices` · `Distributed Systems` · `Kafka` · `WebSockets`
+### Core engineering
 
-**Data stores**  
-`PostgreSQL` · `Redis` · `Amazon S3`
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=swagger&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Microservices-2563EB?style=for-the-badge&logo=serverless&logoColor=white" alt="Microservices" />
+</p>
 
-**Cloud & DevOps**  
-`AWS` · `Docker` · `Kubernetes`
+### Data and messaging
 
-## Writing and learning
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+</p>
 
-I share learning and insights about **Go, backend development, and system design** at [GopherWorkspace](http://gopherworkspace.com/).
+### Cloud and DevOps
 
-## Connect
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
 
-- **LinkedIn:** [dev-kapil-yadav](https://www.linkedin.com/in/dev-kapil-yadav)
-- **GitHub:** [@kapilyadavdev](https://github.com/kapilyadavdev)
-- **Website:** [gopherworkspace.com](http://gopherworkspace.com/)
+## 🧭 Areas of ownership
+
+- Backend architecture and API design
+- Distributed and event-driven systems
+- High-volume data processing
+- Performance analysis and optimization
+- Cloud infrastructure and containerized deployments
+- Technical leadership and engineering practices
+
+## 🌐 GopherWorkspace
+
+I publish insights, lessons, and practical resources about:
+
+- **Golang** for backend and systems engineering
+- **Distributed systems** and system design
+- **Microservices** and API architecture
+- **Performance engineering** and concurrency
+
+Visit **[GopherWorkspace](http://gopherworkspace.com/)** to explore the content.
+
+## 🤝 Let’s connect
+
+I welcome conversations about backend engineering, distributed systems, cloud-native architecture, technical leadership, and Go.
+
+<p>
+  <a href="https://www.linkedin.com/in/dev-kapil-yadav"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/kapilyadavdev"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+  <a href="http://gopherworkspace.com/"><img src="https://img.shields.io/badge/Website-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit GopherWorkspace" /></a>
+</p>
 
 ---
 
 <div align="center">
 
-*Building scalable systems and continuously learning.*
+<img src="https://komarev.com/ghpvc/?username=kapilyadavdev&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
+
+**Building scalable systems. Leading thoughtful engineering. Always learning.**
 
 </div>
