@@ -1,41 +1,67 @@
-# Hi, I'm Kapil Yadav 👋
+<div align="center">
 
-### Technology Lead | Backend Engineer | Golang
+# Kapil Yadav
 
-I’m a backend engineer with **9+ years of experience** building scalable microservices, distributed systems, and cloud-native applications. I focus on **Golang, system design, performance optimization, and reliable backend architecture**.
+### Technology Lead · Backend Engineer · Go Developer
 
-## 🛠 Tech Stack
+Building scalable backend systems, distributed services, and cloud-native applications.
 
-**Backend**
-`Golang` • `REST` • `gRPC` • `GraphQL` • `Microservices`
+[LinkedIn](https://www.linkedin.com/in/dev-kapil-yadav) · [GitHub](https://github.com/kapilyadavdev) · [GopherWorkspace](http://gopherworkspace.com/)
 
-**Data & Messaging**
-`PostgreSQL` • `Redis` • `Kafka`
-
-**Cloud & DevOps**
-`AWS` • `Docker` • `Kubernetes`
-
-## 🚀 Highlights
-
-* ⚡ Improved API processing time from **~5 minutes to 50–60 seconds** using Golang concurrency.
-* 📨 Designed Kafka-based notification systems supporting **20–30× message growth**.
-* 📦 Built scalable solutions for large-payload processing using **Amazon S3**.
-* 📡 Implemented real-time backend processing updates using **WebSockets**.
-
-## 🌐 GopherWorkspace
-
-I share my learning and insights on **Golang, backend development, and system design**.
-
-👉 **[gopherworkspace.com](http://gopherworkspace.com/)**
-
-## 🤝 Connect
-
-* 💼 **LinkedIn:** https://www.linkedin.com/in/dev-kapil-yadav
-* 🐙 **GitHub:** https://github.com/kapilyadavdev
-* 🌐 **Website:** http://gopherworkspace.com/
+</div>
 
 ---
 
-<p align="center">
-  <i>Building scalable systems and continuously learning.</i>
-</p>
+## About
+
+I’m a backend engineer with **9+ years of experience** designing and building scalable microservices, distributed systems, and cloud-native applications. My work focuses on **Go**, system design, performance optimization, and reliable services that grow with their workloads.
+
+This profile is my professional dashboard: a snapshot of the technologies I work with, selected engineering highlights, and ways to connect.
+
+## At a glance
+
+| Focus | Areas |
+| --- | --- |
+| **Backend engineering** | Go, REST APIs, gRPC, GraphQL, microservices |
+| **Data and messaging** | PostgreSQL, Redis, Kafka |
+| **Cloud and infrastructure** | AWS, Docker, Kubernetes |
+| **Interests** | Distributed systems, system design, performance, backend development |
+
+## Selected highlights
+
+- ⚡ Improved API processing time from **about 5 minutes to 50–60 seconds** using Go concurrency.
+- 📨 Designed Kafka-based notification systems to support **20–30× message growth**.
+- 📦 Built scalable solutions for processing large payloads with **Amazon S3**.
+- 📡 Implemented real-time backend processing updates with **WebSockets**.
+
+## Technology toolkit
+
+**Languages & APIs**  
+`Go` · `REST` · `gRPC` · `GraphQL`
+
+**Architecture & messaging**  
+`Microservices` · `Distributed Systems` · `Kafka` · `WebSockets`
+
+**Data stores**  
+`PostgreSQL` · `Redis` · `Amazon S3`
+
+**Cloud & DevOps**  
+`AWS` · `Docker` · `Kubernetes`
+
+## Writing and learning
+
+I share learning and insights about **Go, backend development, and system design** at [GopherWorkspace](http://gopherworkspace.com/).
+
+## Connect
+
+- **LinkedIn:** [dev-kapil-yadav](https://www.linkedin.com/in/dev-kapil-yadav)
+- **GitHub:** [@kapilyadavdev](https://github.com/kapilyadavdev)
+- **Website:** [gopherworkspace.com](http://gopherworkspace.com/)
+
+---
+
+<div align="center">
+
+*Building scalable systems and continuously learning.*
+
+</div>
