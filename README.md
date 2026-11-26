@@ -1,42 +1,52 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Kapil%20Yadav&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Technology%20Lead%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20Golang%20%26%20Python&descSize=16&descAlignY=58" alt="Kapil Yadav — Technology Lead and Backend Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Kapil%20Yadav&fontSize=54&fontColor=ffffff&fontAlignY=38" alt="Kapil Yadav — Technology Lead and Backend Engineer" />
+
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=600&lines=Technology+Lead;Backend+Engineer;Golang+%26+Python+Developer;Building+reliable+distributed+systems" alt="Animated role descriptions" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-kapil-yadav)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapilyadavdev)
 [![Website](https://img.shields.io/badge/GopherWorkspace-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](http://gopherworkspace.com/)
 
-**Building scalable systems, distributed services, and cloud-native applications.**
+**9+ years building scalable backend systems, distributed services, and cloud-native applications.**
 
 </div>
 
-## 👋 About
+## 👋 About me
 
-I am a backend-focused technology leader with **9+ years of experience** designing and delivering scalable, resilient, and high-performance software systems.
+I’m a backend-focused technology leader with **9+ years of experience** building scalable, resilient, and high-performance software systems.
 
-My work combines hands-on engineering with technical leadership—turning complex requirements into dependable services, improving system performance, mentoring engineers, and introducing practices that support sustainable growth.
+My work combines hands-on engineering with technical leadership—turning complex requirements into dependable services, improving system performance, mentoring engineers, and establishing practices that support long-term growth.
 
-## ⚡ Engineering impact
+I’m particularly interested in:
+
+- Building fault-tolerant distributed systems
+- Designing scalable microservice architectures
+- Improving API throughput and system performance
+- Using Go concurrency and Python to solve practical engineering problems
+- Delivering reliable applications on cloud-native infrastructure
+
+## 🎯 Engineering impact
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🚀 API performance</h3>
-      Reduced processing time from approximately <strong>5 minutes to 50–60 seconds</strong> using concurrent Go processing.
+      <h3>⚡ Performance optimization</h3>
+      Reduced API processing time from approximately <strong>5 minutes to 50–60 seconds</strong> through concurrent Go-based processing.
     </td>
     <td width="50%">
-      <h3>📨 Scalable messaging</h3>
-      Designed Kafka-based notification systems supporting <strong>20–30× message growth</strong>.
+      <h3>📨 Event-driven messaging</h3>
+      Designed Kafka-based notification systems capable of supporting <strong>20–30× message growth</strong>.
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>📦 Large-payload processing</h3>
-      Built scalable workflows for large files and payloads using <strong>Amazon S3</strong>.
+      Built scalable solutions for large-file and large-payload workflows using <strong>Amazon S3</strong>.
     </td>
     <td width="50%">
-      <h3>📡 Real-time updates</h3>
-      Implemented WebSocket-based updates for immediate backend processing visibility.
+      <h3>📡 Real-time systems</h3>
+      Implemented WebSocket-based processing updates for immediate backend status visibility.
     </td>
   </tr>
 </table>
@@ -62,7 +72,7 @@ My work combines hands-on engineering with technical leadership—turning comple
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
 </p>
 
-### Data & cloud
+### Data, cloud & DevOps
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -73,20 +83,24 @@ My work combines hands-on engineering with technical leadership—turning comple
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
-## 🧭 Core strengths
+## 🧭 Areas of ownership
 
 - Backend architecture and API design
 - Distributed and event-driven systems
-- Large-volume and real-time processing
+- High-volume data processing
 - Performance analysis and optimization
 - Cloud infrastructure and containerized deployments
-- Technical leadership and engineering excellence
+- Technical leadership and engineering practices
 
 ## 🌐 GopherWorkspace
 
-I share practical insights about **Go, Python, backend development, distributed systems, system design, and performance engineering** through [GopherWorkspace](http://gopherworkspace.com/).
+I share insights, lessons, and practical resources about **Golang, Python, backend development, and system design**.
+
+Explore [GopherWorkspace](http://gopherworkspace.com/).
 
 ## 🤝 Let’s connect
+
+I welcome conversations about backend engineering, distributed systems, cloud-native architecture, technical leadership, Go, and Python.
 
 <p>
   <a href="https://www.linkedin.com/in/dev-kapil-yadav"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
