@@ -5,7 +5,7 @@
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=600&lines=Technology+Lead;Backend+Engineer;Golang+%26+Python+Developer;Building+reliable+distributed+systems" alt="Animated role descriptions" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-kapil-yadav)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapilyadavdev)
+[![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapilyadavdev)
 [![Website](https://img.shields.io/badge/GopherWorkspace-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](http://gopherworkspace.com/)
 
 **9+ years building scalable backend systems, distributed services, and cloud-native applications.**
@@ -14,28 +14,19 @@
 
 ## 👋 About me
 
-<table>
-  <tr>
-    <td valign="middle">
-      I’m a backend-focused technology leader with <strong>9+ years of experience</strong> building scalable, resilient, and high-performance software systems.<br /><br />
-      My work combines hands-on engineering with technical leadership—turning complex requirements into dependable services, improving system performance, mentoring engineers, and establishing practices that support long-term growth.<br /><br />
-      <strong>Currently expanding my Python toolkit</strong> alongside deep experience in Go and backend engineering.
-    </td>
-    <td width="190" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/animation/looking-around.gif" width="150" alt="Animated Go gopher looking around" />
-      <br />
-      <sub>A little gopher curiosity, from <a href="https://github.com/egonelbre/gophers">egonelbre/gophers</a></sub>
-    </td>
-  </tr>
-</table>
+I’m a backend-focused technology leader with **9+ years of experience** building scalable, resilient, and high-performance software systems.
 
-### What I enjoy building
+My work combines hands-on engineering with technical leadership—turning complex requirements into dependable services, improving system performance, mentoring engineers, and establishing practices that support long-term growth.
 
-- Fault-tolerant distributed systems
-- Scalable microservice architectures
-- High-throughput APIs and data processing
-- Go concurrency and Python solutions for practical engineering problems
-- Reliable cloud-native applications
+**Currently expanding my Python toolkit** alongside deep experience in Go and backend engineering.
+
+I’m particularly interested in:
+
+- Building fault-tolerant distributed systems
+- Designing scalable microservice architectures
+- Improving API throughput and system performance
+- Using Go concurrency and Python to solve practical engineering problems
+- Delivering reliable applications on cloud-native infrastructure
 
 ## 🎯 Engineering impact
 
